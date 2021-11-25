@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 50px;
+    background: #161B22;
+    display: flex;
+    justify-content: left;
+}
+
+.header-search {
+    background: #ffffff;
+    width: 20%;
+    margin: 5px;
+}
+
+.header-menu {
+    width : 17%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-menu span {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0px 5px;
+    color: #ffffff;
+}
+
+.header-icon {
+    background: #ffffff;
+    width : 15%;
+    margin: 5px;
+    margin-left: 50%;
+}
