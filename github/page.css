@@ -194,9 +194,5 @@ body {
 
 .Pinned {
     background-color: #0D1117;
-}
-
-.Pinned span{
-    color: #ffffff;
-    margin: 10px;
+    width: 70%;
 }
